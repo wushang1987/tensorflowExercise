@@ -3,5 +3,4 @@
 
 ```commandline
 jupyter notebook
-
 ```
